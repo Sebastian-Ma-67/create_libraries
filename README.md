@@ -1,19 +1,11 @@
-|-- create-libraries/
+|-- create_libraries/
 
   |-- src/
-
-      |-- tutorial.cpp
+      |-- hello.cpp
+      |-- main.cpp
 
   |-- include/
-
-      |--TutorialConfig.h.in
-
-  |-- mathlib/
-
-      |-- CMakeLists.txt
-
-      |-- mathlib.h
-
-      |-- mathlib.cpp
+      |-- static/
+          |--hello.h
 
   |-- CMakeLists.txt
