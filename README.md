@@ -1,11 +1,11 @@
 |-- create_libraries/
+    |-- build/
 
-  |-- src/
-      |-- hello.cpp
-      |-- main.cpp
+    |-- lib/
 
-  |-- include/
-      |-- static/
-          |--hello.h
+    |-- lib_testFunc/
+        |-- testFunc.c
+        |-- testFunc.h
+        |-- CMakeLists.txt
 
-  |-- CMakeLists.txt
+    |-- CMakeLists.txt
